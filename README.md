@@ -1,5 +1,7 @@
-# ;]
+# Understanding Punctuation
 
+# Using Periods
+----
 Use a period to signal the end of most sentences, including direct questions.
 
 Also, use periods in most abbreviations.
@@ -62,6 +64,10 @@ Note: In __MLA parenthetical references__, titles of classic literary works and 
 
 When you type an electronic address (URL), do not end it with a period, and do not add spaces or periods within the address.
 
+----
+
+# Using Question Marks
+----
 Use a question mark to signal the end of a direct question.
 
 - Who was at the door?
@@ -70,6 +76,20 @@ Use a question mark in parentheses to indicate uncertainty about a date or numbe
 
 - Aristophanes, the Greek playwright, was born in 448 (?) BC and died in 380 (?) BC.
 
+Use a period, not a question mark, with an indirect question. 
+
+- Wrong: The personnel officer asked whether he knew how to type?
+- Correct: The personnel officer asked whether he knew how to type.
+
+Do not use a question mark to convey sarcasm. Instead, suggest your attitude through your choice of words
+
+- Wrong: I refused his generous offer.
+- Correct: I refused his **not very** generous offer.
+
+----
+
+# Using Exclaimation Points
+----
 An exclamation point is used to signal the end of an emotional or emphatic statement, an emphatic interjection, or a forceful command.
 
 - Remember the Maine!
@@ -84,6 +104,10 @@ Use a comma when you form a compound sentence by linking two independent clauses
 
 Note: You may omit the comma if two clauses connected by a coordinating conjunction are very short: Love it or leave it. (The comma would go between *it* and *or* in other cases).
 
+----
+
+# Setting Off Items in a Series
+----
 Use commas between items in a series of three or more **coordinate elements** (words, phrases, or clauses joined by a coordinating conjunction).
 
 - Chipmunk, raccoon, and Mugwump are Native American words.
@@ -97,6 +121,10 @@ Use a comma between items in a series of two or more **coordinate adjectives**â€
 - She brushed her long, shining hair.
 - The baby was tired and cranky and wet. (no commas required)
 
+----
+
+# Setting off Introductory Elements
+----
 An introductory dependent clause, verbal phrase, or prepositional phrase is generally set off from the rest of the sentence by a comma.
 
 - When war came to Baghdad, many victims were children. (dependent clause)
@@ -108,6 +136,10 @@ If an introductory _dependent clause_ is short and designates time, you may omit
 
 If an introductory prepositional phrase is short and no ambiguity is possible, you may omit the comma: After lunch I took a four-hour nap. (The comma would go between **lunch** and **I** in other cases).
 
+----
+
+# Nonrestrictive Modifiers
+----
 Use commas to set off nonessential material whether it appears at the beginning, in the middle, or at the end of a sentence.
 
 Use commas to set off nonrestrictive modifiers, which supply information that is not essential to the meaning of the words they modify. (Do not use commas to set off restrictive modifiers, which supply information that is essential to the meaning of the words they modify.)
@@ -118,19 +150,77 @@ Use commas to set off nonrestrictive modifiers, which supply information that is
 
 In the following examples, commas set off only nonrestrictive modifiersâ€”those that supply nonessential information. Commas do not set off restrictive modifiers, which supply essential information.
 
-# Adjective Clauses
+----
 
+### Adjective Clauses
+----
 - Nonrestrictive: He ran for the bus, which was late as usual.
 - Restrictive: Speaking in public is something that most people fear.
 
-# Prepositional Phrases
+----
+
+### Prepositional Phrases
+----
 - Nonrestrictive: The clerk, with a nod, dismissed me.
 - Restrictive: The man with the gun demanded their money.
 
-# Verbal Phrases
+----
+
+### Verbal Phrases
+----
 - Nonrestrictive: The marathoner, running his fastest, beat his previous record.
 - Restrictive: The candidates running for mayor have agreed to a debate.
 
-# Appositives
+----
+
+### Appositives
+----
 - Nonrestrictive: Citizen Kane, Orson Welles's first film, made him famous.
 - Restrictive: The film Citizen Kane made Orson Welles famous.
+
+----
+
+# Transitional Words and Phrases
+----
+__Transitional words and phrases__ qualify, clarify, and make connections. Because they are not essential to the sentence's meaning, however, they are always set off by commas when they interrupt a clause or when they begin or end a sentence.
+
+- The Outward Bound program, for example, is considered safe.
+- In fact, Outward Bound has an excellent reputation. Other programs are not so safe, however.
+
+Note: When a transitional word or phrase joins two independent clauses, it must be preceded by a semicolon and followed by a comma; _Laughter is the best medicine; of course penicillin also comes in handy sometimes._
+
+----
+
+### Contradictory Phrases
+----
+A phrase that expresses a contradiction is usually set off from the rest of the sentence by one or more commas.
+
+* Contradictory: This medicine is taken after meals, _never on an empty stomach_.
+* Not Contradictory: Jonas Salk, _not Albert Sabin_, developed the first polio vaccine.
+
+----
+
+### Miscellaneous Nonessential Elements
+----
+Other nonessential elements usually set off by commas include tag questions, names in direct address, mild interjections, and _yes_ and _no_.
+
+* This is your first day on the job, isn't it?
+* I wonder, Mr. Honeywell, whether Mr. Albright deserves a raise.
+* Well, it's about time.
+* Yes, that's what I thought.
+
+----
+
+# Using Commas in Other Conventional Contexts
+----
+### With Direct Quotations
+In most cases, use commas to set off a direct quotation from the **identifying tag**, the phrase that identifies the speaker (_he said, she answered, and so on_).
+
+* Emerson said, "I greet you at the beginning of a great career."
+* "I greet you at the beginning of a great career," Emerson said.
+* "I greet you," Emerson said, "at the beginning of a great career."
+
+When the identifying tag comes between two complete sentences, however, the tag is introduced by a comma but followed by a period.
+
+* "Winning isn't everything," Coach Vince Lombardi once said. "It's the only thing."
+
