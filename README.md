@@ -68,7 +68,7 @@ Use a question mark to signal the end of a direct question.
 
 Use a question mark in parentheses to indicate uncertainty about a date or number.
 
-- Aristophanes, the Greek playwright, was born in 448 (?BC) and died in 380 (?BC).
+- Aristophanes, the Greek playwright, was born in 448 (?) BC and died in 380 (?) BC.
 
 An exclamation point is used to signal the end of an emotional or emphatic statement, an emphatic interjection, or a forceful command.
 
