@@ -349,7 +349,7 @@ Do not use commas in the following situations. Any comma within a set of asteris
 
 # Using Semicolons
 ----
-The **semicolon** is used only between items of equal gramatical rank: two independent clauses, two phrases, and so on.
+The **semicolon** is commonly used between items of equal grammatical rank, such as two independent clauses or list items, but it can also serve other purposes, such as separating clauses with transitional phrases or joining independent clauses without a conjunction.
 
 ----
 
