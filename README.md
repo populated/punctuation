@@ -4,6 +4,32 @@ A guide on understanding proper punctuation, grammar, etc. This guide is going t
 
 If you wish to contribute to this, you can make a PR, and if you wish to go through and remake this readme, and maybe add a table of contents (if I don't do this first), go ahead.
 
+---
+
+# Table of Contents
+
+- [Understanding Punctuation](#understanding-punctuation)
+- [Using Periods](#using-periods)
+- [Using Question Marks](#using-question-marks)
+- [Using Exclamation Points](#using-exclamation-points)
+- [Setting Off Items in a Series](#setting-off-items-in-a-series)
+- [Setting off Introductory Elements](#setting-off-introductory-elements)
+- [Nonrestrictive Modifiers](#nonrestrictive-modifiers)
+  - [Adjective Clauses](#adjective-clauses)
+  - [Prepositional Phrases](#prepositional-phrases)
+  - [Verbal Phrases](#verbal-phrases)
+  - [Appositives](#appositives)
+- [Transitional Words and Phrases](#transitional-words-and-phrases)
+  - [Contradictory Phrases](#contradictory-phrases)
+  - [Miscellaneous Nonessential Elements](#miscellaneous-nonessential-elements)
+- [Using Commas in Other Conventional Contexts](#using-commas-in-other-conventional-contexts)
+  - [With Direct Quotations](#with-direct-quotations)
+  - [With Titles or Degrees Following a Name](#with-titles-or-degrees-following-a-name)
+  - [In Dates and Addresses](#in-dates-and-addresses)
+- [Using Commas to Prevent Misreading](#using-commas-to-prevent-misreading)
+
+---
+
 # Using Periods
 ----
 Use a period to signal the end of most sentences, including direct questions.
