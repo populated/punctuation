@@ -225,8 +225,8 @@ Note: When a transitional word or phrase joins two independent clauses, it must 
 ----
 A phrase that expresses a contradiction is usually set off from the rest of the sentence by one or more commas.
 
-* Contradictory: This medicine is taken after meals, _never on an empty stomach_.
-* Not Contradictory: Jonas Salk, _not Albert Sabin_, developed the first polio vaccine.
+- Contradictory: This medicine is taken after meals, _never on an empty stomach_.
+- Not Contradictory: Jonas Salk, _not Albert Sabin_, developed the first polio vaccine.
 
 ----
 
@@ -234,10 +234,10 @@ A phrase that expresses a contradiction is usually set off from the rest of the 
 ----
 Other nonessential elements usually set off by commas include tag questions, names in direct address, mild interjections, and _yes_ and _no_.
 
-* This is your first day on the job, isn't it?
-* I wonder, Mr. Honeywell, whether Mr. Albright deserves a raise.
-* Well, it's about time.
-* Yes, that's what I thought.
+- This is your first day on the job, isn't it?
+- I wonder, Mr. Honeywell, whether Mr. Albright deserves a raise.
+- Well, it's about time.
+- Yes, that's what I thought.
 
 ----
 
@@ -246,27 +246,27 @@ Other nonessential elements usually set off by commas include tag questions, nam
 ### With Direct Quotations
 In most cases, use commas to set off a direct quotation from the **identifying tag**, the phrase that identifies the speaker (_he said, she answered, and so on_).
 
-* Emerson said, "I greet you at the beginning of a great career."
-* "I greet you at the beginning of a great career," Emerson said.
-* "I greet you," Emerson said, "at the beginning of a great career."
+- Emerson said, "I greet you at the beginning of a great career."
+- "I greet you at the beginning of a great career," Emerson said.
+- "I greet you," Emerson said, "at the beginning of a great career."
 
 When the identifying tag comes between two complete sentences, however, the tag is introduced by a comma but followed by a period.
 
-* "Winning isn't everything," Coach Vince Lombardi once said. "It's the only thing."
+- "Winning isn't everything," Coach Vince Lombardi once said. "It's the only thing."
 
 ----
 
 ### With Titles or Degrees Following a Name
 ----
-* Michael Crichton, MD, wrote Jurassic Park.
-* Hamlet, Prince of Denmark, is Shakespeare's most famous character.
+- Michael Crichton, MD, wrote Jurassic Park.
+- Hamlet, Prince of Denmark, is Shakespeare's most famous character.
 
 ----
 
 ### In Dates and Addresses
 ----
-* On August 30, 1983, the space shuttle Challenger exploded.
-* Her address is 600 West End Avenue, New York, NY 10024.
+- On August 30, 1983, the space shuttle Challenger exploded.
+- Her address is 600 West End Avenue, New York, NY 10024.
 
 Note: When only the month and year are given, do not use a comma to separate the month from the year: _August 1983_. Do not use a comma to separate the street number from the street or the state name from the zip code.
 
@@ -276,9 +276,28 @@ Note: When only the month and year are given, do not use a comma to separate the
 ----
 In some cases, a comma is used to avoid ambiguity. For example, consider the following sentence:
 
-* Those who can, sprint the final lap.
+- Those who can, sprint the final lap.
 
 Without the comma _can_ appears to be an auxiliary verb ("Those who can sprint ..."), and the sentence seems in-complete. The comma tells readers to pause and thus prevents confusion. Also use a comma to acknowledge the omission of a repeated word, usually a verb, and to separate words repeated consecutively.
 
-* Pam carried the box; Tim, the suitcase.
-* Everything bad that could have happened, happened.
+- Pam carried the box; Tim, the suitcase.
+- Everything bad that could have happened, happened.
+
+----
+
+# Editing Misused Commas
+----
+Do not use commas in the following situations.
+
+----
+
+### To Set Off Restrictive Modifiers
+----
+- The film, Avatar, was directed by James Cameron.
+- They planned a picnic, in the park.
+
+----
+
+### Between a Subject and its Predicate
+----
+- A woman with dark red hair, opened the door.
