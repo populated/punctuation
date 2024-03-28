@@ -30,6 +30,10 @@ If you wish to contribute to this, you can make a PR, and if you wish to go thro
 - [Editing Misused Commas](#editing-misused-commas)
   - [To Set Off Restrictive Modifiers](#to-set-off-restrictive-modifiers)
   - [Between a Subject and its Predicate](#between-a-subject-and-its-predicate)
+  - [Before or After a Series](#before-or-after-a-series)
+  - [Between a Verb and an Indirect Quotation or Indirect Question](#between-a-verb-and-an-indirect-quotation-or-indirect-question)
+  - [In Compounds That Are Not Composed of Independent Clauses](#in-compounds-that-are-not-composed-of-independent-clauses)
+  - [Before a Dependent Clause at the End of a Sentence](#before-a-dependent-clause-at-the-end-of-a-sentence)
 
 ----
 
@@ -304,3 +308,29 @@ Do not use commas in the following situations.
 ### Between a Subject and its Predicate
 ----
 - A woman with dark red hair, opened the door.
+
+----
+
+### Before or After a Series
+----
+- Three important criteria are fat content, salt content, and taste.
+- The provinces Quebec, Ontario, and Alberta are in Canada.
+----
+
+### Between a Verb and an Indirect Quotation or Indirect Question
+----
+- General Douglas MacArthur vowed that he would return.
+- The landlord asked if he would sign a two-year lease.
+
+----
+
+### In Compounds That Are Not Composed of Independent Clauses
+----
+- During the 1400s plagues and pestilence were common. (compound subject)
+- Many nontraditional students are returning to college and tend to do well there. (compound predicate)
+
+----
+
+### Before a Dependent Clause at the End of a Sentence
+----
+- Jane Addams founded Hull House in 1889 because she wanted to help Chicago's poor.
