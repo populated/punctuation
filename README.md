@@ -294,43 +294,43 @@ Without the comma _can_ appears to be an auxiliary verb ("Those who can sprint .
 
 # Editing Misused Commas
 ----
-Do not use commas in the following situations.
+Do not use commas in the following situations. Any comma within a set of asterisks (*) is invalid and should not be there.
 
 ----
 
 ### To Set Off Restrictive Modifiers
 ----
-- The film, Avatar, was directed by James Cameron.
-- They planned a picnic, in the park.
+- The film*,* Avatar*,* was directed by James Cameron.
+- They planned a picnic*,* in the park.
 
 ----
 
 ### Between a Subject and its Predicate
 ----
-- A woman with dark red hair, opened the door.
+- A woman with dark red hair*,* opened the door.
 
 ----
 
 ### Before or After a Series
 ----
-- Three important criteria are fat content, salt content, and taste.
-- The provinces Quebec, Ontario, and Alberta are in Canada.
+- Three important criteria are*,* fat content, salt content, and taste.
+- The provinces Quebec, Ontario, and Alberta*,* are in Canada.
 ----
 
 ### Between a Verb and an Indirect Quotation or Indirect Question
 ----
-- General Douglas MacArthur vowed that he would return.
-- The landlord asked if he would sign a two-year lease.
+- General Douglas MacArthur vowed*,* that he would return.
+- The landlord asked*,* if he would sign a two-year lease.
 
 ----
 
 ### In Compounds That Are Not Composed of Independent Clauses
 ----
-- During the 1400s plagues and pestilence were common. (compound subject)
-- Many nontraditional students are returning to college and tend to do well there. (compound predicate)
+- During the 1400s plagues*,* and pestilence were common. (compound subject)
+- Many nontraditional students are returning to college*,* and tend to do well there. (compound predicate)
 
 ----
 
 ### Before a Dependent Clause at the End of a Sentence
 ----
-- Jane Addams founded Hull House in 1889 because she wanted to help Chicago's poor.
+- Jane Addams founded Hull House in 1889 because*,* she wanted to help Chicago's poor.
