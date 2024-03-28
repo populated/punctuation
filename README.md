@@ -27,8 +27,11 @@ If you wish to contribute to this, you can make a PR, and if you wish to go thro
   - [With Titles or Degrees Following a Name](#with-titles-or-degrees-following-a-name)
   - [In Dates and Addresses](#in-dates-and-addresses)
 - [Using Commas to Prevent Misreading](#using-commas-to-prevent-misreading)
+- [Editing Misused Commas](#editing-misused-commas)
+  - [To Set Off Restrictive Modifiers](#to-set-off-restrictive-modifiers)
+  - [Between a Subject and its Predicate](#between-a-subject-and-its-predicate)
 
----
+----
 
 # Using Periods
 ----
