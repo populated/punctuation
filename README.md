@@ -8,11 +8,14 @@ If you wish to contribute to this, you can make a PR, and if you wish to go thro
 
 # Table of Contents
 
-- [Understanding Punctuation](#understanding-punctuation)
+## Using End Punctuation:
 - [Using Periods](#using-periods)
 - [Using Question Marks](#using-question-marks)
 - [Using Exclamation Points](#using-exclamation-points)
-- [Setting Off Items in a Series](#setting-off-items-in-a-series)
+
+## Using Commas:
+- [Setting off Independent Clauses](#setting-off-independent-clauses)
+- [Setting off Items in a Series](#setting-off-items-in-a-series)
 - [Setting off Introductory Elements](#setting-off-introductory-elements)
 - [Nonrestrictive Modifiers](#nonrestrictive-modifiers)
   - [Adjective Clauses](#adjective-clauses)
@@ -34,6 +37,9 @@ If you wish to contribute to this, you can make a PR, and if you wish to go thro
   - [Between a Verb and an Indirect Quotation or Indirect Question](#between-a-verb-and-an-indirect-quotation-or-indirect-question)
   - [In Compounds That Are Not Composed of Independent Clauses](#in-compounds-that-are-not-composed-of-independent-clauses)
   - [Before a Dependent Clause at the End of a Sentence](#before-a-dependent-clause-at-the-end-of-a-sentence)
+
+## Using Semicolons:
+- [Separating Independent Clauses](#separating-independent-clauses)
 
 ----
 
@@ -134,6 +140,10 @@ An exclamation point is used to signal the end of an emotional or emphatic state
 
 Note: Except for recording dialogue, do not use exclamation points in college writing, and any other form of writing. Even in informal writing, use exclamation points sparingly—and never use two or more in a row.
 
+----
+
+# Setting Off Independent Clauses
+----
 Use a comma when you form a compound sentence by linking two independent clauses with a __coordinating conjunction__ (and, but, or, nor, for, yet, so) or with a pair of __correlative conjunctions__.
 
 - The House approved the bill, but the Senate rejected it.
@@ -334,3 +344,21 @@ Do not use commas in the following situations. Any comma within a set of asteris
 ### Before a Dependent Clause at the End of a Sentence
 ----
 - Jane Addams founded Hull House in 1889 because*,* she wanted to help Chicago's poor.
+
+----
+
+# Using Semicolons
+----
+The **semicolon** is used only between items of equal gramatical rank: two independent clauses, two phrases, and so on.
+
+----
+
+### Separating Independent Clauses
+----
+Use a semicolon between closesly related independent clauses that convey parallel or contrasting information but are not joined by a coordinating conjunction.
+
+- Paul Revere's _The Boston Massacre_ is an early example of American protest art; Edward Hick's later "primitive" paintings are socially conscious art with a religious strain.
+
+Note: Using only a comma or no punctuation at all between independent clauses creates a **run-on**. Also use a semicolon between two independent clauses when the second clause is introduced by a transitional word or phrase (the transitional element is followed by a comma).
+
+- Thomas Jefferson brought two hundred vanilla beans and a recipe for vanilla ice cream back from France; thus, he gave America its all-time favorite ice cream flavor.
