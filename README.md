@@ -251,4 +251,4 @@ In some cases, a comma is used to avoid ambiguity. For example, consider the fol
 Without the comma _can_ appears to be an auxiliary verb ("Those who can sprint ..."), and the sentence seems in-complete. The comma tells readers to pause and thus prevents confusion. Also use a comma to acknowledge the omission of a repeated word, usually a verb, and to separate words repeated consecutively.
 
 * Pam carried the box; Tim, the suitcase.
-* Everything bad tha tcould have happened, happened.
+* Everything bad that could have happened, happened.
