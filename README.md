@@ -224,3 +224,31 @@ When the identifying tag comes between two complete sentences, however, the tag 
 
 * "Winning isn't everything," Coach Vince Lombardi once said. "It's the only thing."
 
+----
+
+### With Titles or Degrees Following a Name
+----
+* Michael Crichton, MD, wrote Jurassic Park.
+* Hamlet, Prince of Denmark, is Shakespeare's most famous character.
+
+----
+
+### In Dates and Addresses
+----
+* On August 30, 1983, the space shuttle Challenger exploded.
+* Her address is 600 West End Avenue, New York, NY 10024.
+
+Note: When only the month and year are given, do not use a comma to separate the month from the year: _August 1983_. Do not use a comma to separate the street number from the street or the state name from the zip code.
+
+----
+
+# Using Commas to Prevent Misreading
+----
+In some cases, a comma is used to avoid ambiguity. For example, consider the following sentence:
+
+* Those who can, sprint the final lap.
+
+Without the comma _can_ appears to be an auxiliary verb ("Those who can sprint ..."), and the sentence seems in-complete. The comma tells readers to pause and thus prevents confusion. Also use a comma to acknowledge the omission of a repeated word, usually a verb, and to separate words repeated consecutively.
+
+* Pam carried the box; Tim, the suitcase.
+* Everything bad tha tcould have happened, happened.
