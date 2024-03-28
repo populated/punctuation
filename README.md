@@ -128,7 +128,7 @@ An exclamation point is used to signal the end of an emotional or emphatic state
 - Remember the Maine!
 - "No! Don't leave!" he cried.
 
-Note: Except for recording dialogue, do not use exclamation points in college writing. Even in informal writing, use exclamation points sparingly—and never use two or more in a row.
+Note: Except for recording dialogue, do not use exclamation points in college writing, and any other form of writing. Even in informal writing, use exclamation points sparingly—and never use two or more in a row.
 
 Use a comma when you form a compound sentence by linking two independent clauses with a __coordinating conjunction__ (and, but, or, nor, for, yet, so) or with a pair of __correlative conjunctions__.
 
