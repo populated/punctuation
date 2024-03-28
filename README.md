@@ -118,7 +118,7 @@ Do not use a question mark to convey sarcasm. Instead, suggest your attitude thr
 
 ----
 
-# Using Exclaimation Points
+# Using Exclamation Points
 ----
 An exclamation point is used to signal the end of an emotional or emphatic statement, an emphatic interjection, or a forceful command.
 
