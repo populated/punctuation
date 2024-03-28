@@ -2,7 +2,7 @@
 
 A guide on understanding proper punctuation, grammar, etc. This guide is going to be in-depth and somewhat complex. It is currently a WIP (work in progress), and as of now, it is not finished, so I don't expect much. But, it will be finished sometime.
 
-If you wish to contribute to this, you can make a PR, and if you wish to go through and remake this readme, and maybe add a table of contents (if I don't do this first), go ahead.
+If you wish to contribute to this, you can make a PR, and if you wish to go through and remake this readme.
 
 ---
 
