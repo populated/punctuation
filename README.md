@@ -45,7 +45,7 @@ If you wish to contribute to this, you can make a PR, and if you wish to go thro
 
 # Using Periods
 ----
-Use a period to signal the end of most sentences, including direct questions.
+Use a period to signal the end of most sentences, including direct & indirect questions.
 
 Also, use periods in most abbreviations.
 
