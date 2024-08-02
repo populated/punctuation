@@ -6,6 +6,10 @@ If you wish to contribute to this, you can make a PR, and if you wish to go thro
 
 ---
 
+# Updates
+
+**August 1st, 2024:** There have been no updates or commits for the past four months. The reason for this repository being on GitHub is unclear. It may be privatized and moved to a more appropriate platform.
+
 # Table of Contents
 
 ## Using End Punctuation:
